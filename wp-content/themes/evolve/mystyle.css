@@ -1,0 +1,36 @@
+ul.nav-menu > li.current-menu-item, ul.nav-menu > li.current-menu-ancestor, ul.nav-menu > li.current-menu-item::before, ul.nav-menu > li.current-menu-ancestor::before, ul.nav-menu li.current-menu-item {
+    background: #155085 none repeat scroll 0% 0% !important;
+}
+
+
+.widget-title {
+    color: #FFF !important;
+    font-family: arial !important;
+}
+
+.widget-content, .widget-content a, .widget-content .tab-holder .news-list li .post-holder a, .widget-content .tab-holder .news-list li .post-holder .meta {
+    color: #FFF !important;
+    font-size: 13px !important;
+	font-family: arial !important;
+}
+
+/*secciones destacadas*/
+/*.content-box-1 i {
+    background-color: red !important;
+    width: 100% !important;
+    height: 130px !important;
+}
+
+.content-box-1 {
+    padding-bottom: 30px !important;
+}
+.home-content-boxes .col-md-3.content-box {
+    padding: 0px;
+}*/
+/*secciones destacadas*/
+
+
+/*.social ul.sc_menu li + li a i{
+    background-image: url('/cubanautica/wp-content/uploads/2016/01/LOGO.png') !important;
+}*/
+
